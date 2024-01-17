@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "authenticator",
+    "slug": "authenticator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../authenticator/src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./authenticator/src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./authenticator/src/assets/favicon.png"
+    }
+  }
+}
