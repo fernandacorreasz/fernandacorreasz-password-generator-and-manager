@@ -1,6 +1,8 @@
-# Aplicativo Gerador e Armazenador de Senhas - React Native
+![2024-01-17 17-57-58](https://github.com/fernandacorreasz/fernandacorreasz-password-generator-and-manager/assets/81102579/57b72c38-b68f-4bb1-bc28-b7dad0530706)# Aplicativo Gerador e Armazenador de Senhas - React Native
 
 Este aplicativo React Native oferece uma solução prática e segura para a geração e armazenamento de senhas. Com uma interface intuitiva e amigável, os usuários podem facilmente criar senhas fortes de acordo com suas necessidades e, opcionalmente, salvar essas senhas geradas.
+
+![2024-01-17 17-57-58](https://github.com/fernandacorreasz/fernandacorreasz-password-generator-and-manager/assets/81102579/fe9f3c13-45e8-4b3c-bada-e50c4fee57cc)
 
 ## Funcionalidades Principais
 
