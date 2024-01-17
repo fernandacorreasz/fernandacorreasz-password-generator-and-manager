@@ -7,6 +7,8 @@ Este aplicativo React Native oferece uma solução prática e segura para a gera
 1. **Geração de Senhas:**
    - Ao acessar a página inicial do aplicativo, os usuários encontrarão um botão dedicado à geração de senhas.
    - Ao clicar neste botão, o aplicativo irá criar uma senha aleatória, proporcionando uma opção rápida e conveniente para criar senhas fortes.
+   - ![image](https://github.com/fernandacorreasz/fernandacorreasz-password-generator-and-manager/assets/81102579/c75fecf9-6054-4875-9580-3c56c7bebfee)
+
 
 2. **Opção de Salvamento de Senhas:**
    - Após a geração da senha, os usuários têm a opção de salvar a senha gerada.
